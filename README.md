@@ -5,5 +5,5 @@ fork and create new braches for different devices.
 
 I created the basis with following this website, you can check it out for more
 detailed information.
- 
-https://blog.mbedded.ninja/programming/operating-systems/linux/linux-serial-ports-using-c-cpp/
+
+[Linux Serial Port Using C/C++](https://blog.mbedded.ninja/programming/operating-systems/linux/linux-serial-ports-using-c-cpp/)
